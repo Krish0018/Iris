@@ -1,9 +1,10 @@
 # Iris
 
 ### About the project
-This is quite interesting project.
-In this projects I've only used feature engineering and correlation method to make a movie recommender.
-This is content based model.
+This project is based on K Nearest Neighbour model.
+The data is not uploaded seperately because I've used it directly from pandas.
+In this project I've tried to classify the species according to its nearest known species.
+
 
 ### Tool Used
 Used Python for data analysis for that particular dataset. Libraries used for this project are:
